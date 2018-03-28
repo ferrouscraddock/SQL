@@ -1,2 +1,2 @@
 # SQL
-Data Science in SQL
+SQL practice
