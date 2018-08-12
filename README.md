@@ -1,2 +1,2 @@
-# sql
-sql practice
+# SQL
+Select SQL Projects
